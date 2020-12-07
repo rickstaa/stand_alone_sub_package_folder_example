@@ -19,6 +19,6 @@ import sys
 #         "StandAloneClass2",
 # )
 
-from main_package.stand_alone_subpackage.stand_alone_subpackage.sub_package.python_module import (
-    StandAloneClass2,
-)
+# from main_package.stand_alone_subpackage.stand_alone_subpackage.sub_package.python_module import (
+#     StandAloneClass2,
+# )

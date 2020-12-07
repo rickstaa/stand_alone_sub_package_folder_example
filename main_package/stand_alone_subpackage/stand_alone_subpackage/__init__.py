@@ -18,6 +18,6 @@ import sys
 #     )
 
 
-from main_package.stand_alone_subpackage.stand_alone_subpackage.python_module import (
-    StandAloneClass,
-)
+# from main_package.stand_alone_subpackage.stand_alone_subpackage.python_module import (
+#     StandAloneClass,
+# )
