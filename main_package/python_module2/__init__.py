@@ -1,0 +1,1 @@
+from main_package.python_module2.python_module2 import ModuleClass2
